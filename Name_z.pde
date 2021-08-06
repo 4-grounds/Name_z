@@ -65,8 +65,8 @@ void setup() {
   background(15);
   frameRate(30);
 
-  typeface1 = createFont("CleanDiscordia-IV3-1.otf", 1000, false);
-  typeface2 = createFont("AlienWest-IV2-1.otf", 1000, false);
+  typeface1 = createFont("Helevtica", 1000, false);
+  typeface2 = createFont("Times New Roman", 1000, false);
 
   typeface = typeface1;
 
